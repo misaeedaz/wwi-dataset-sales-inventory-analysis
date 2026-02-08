@@ -35,4 +35,4 @@ of course in this data set only focuses on sales and inventory ending God’s wi
 
 ✋ **for clarity**
 
-The data was edited to show price elasticity, and you can see they used data in the Power BI file on the report section
+The data was edited to show price elasticity, and you can see the  used data in the Power BI file in the table view .
