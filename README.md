@@ -33,5 +33,6 @@ o	A correlation analysis showing the relationship between price increases and qu
 This project is meant to show the importance of linking purchase to sales to inventory and comparing them all together and how that affects the overstock and stock out rates and contribute to a better forecast to minimize the cost and maximize the profit margin and before all this customer satisfaction which is the main driver of business success .
 of course in this data set only focuses on sales and inventory ending God’s will the project we will discuss the linkage between all three parts.
 
-✋**for clarity**
+✋ **for clarity**
+
 The data was edited to show price elasticity, and you can see they used data in the Power BI file on the report section
